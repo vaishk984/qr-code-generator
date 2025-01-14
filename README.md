@@ -12,3 +12,14 @@ A simple QR Code Generator project built with HTML, CSS, JavaScript, and Node.js
    ```bash
    git clone https://github.com/yourusername/qr-code-generator.git
    cd qr-code-generator
+2. Commit the file with a message:
+
+bash
+Copy code
+git commit -m "Add README.md"
+
+3. Push the file to GitHub:
+
+bash
+Copy code
+git push
