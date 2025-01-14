@@ -28,4 +28,4 @@ A simple QR Code Generator project built with HTML, CSS, JavaScript, and Node.js
 
 
 ## Screenshot
-![QR Code Generator Screenshot](screenshot.png)
+![QR Code Generator Screenshot](Screenshot.png)
